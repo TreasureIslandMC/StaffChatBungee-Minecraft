@@ -1,0 +1,5 @@
+name: StaffChatBungee
+main: me.Vik1395.StaffChat.Bungee
+version: 1.2
+description: A plugin that allows two streams of chatting for staff.
+author: Vik1395
