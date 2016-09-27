@@ -55,6 +55,7 @@ When editing the format, make sure you dont remove "{TYPE}", "{NAME}" or "{MESSA
 Here is an example of how the plugin works/is used:
 ![enter image description here](http://i.imgur.com/0KrDRiC.jpg?1)
 
+To type in Administrator Chat: ![Image](http://i.imgur.com/Lu3QUMj.jpg?1)
 To type in Moderator Chat: ![Image](http://i.imgur.com/TSiRQ0Z.jpg?1)
 
 This plugin is licensed under [CC Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
