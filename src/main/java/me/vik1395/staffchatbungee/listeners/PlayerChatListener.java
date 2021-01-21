@@ -8,7 +8,7 @@ import net.md_5.bungee.api.plugin.Listener;
 import net.md_5.bungee.event.EventHandler;
 
 public class PlayerChatListener implements Listener {
-	private StaffChatBungeePlugin plugin;
+	private final StaffChatBungeePlugin plugin;
 
 	public PlayerChatListener(StaffChatBungeePlugin instance) {
 		this.plugin = instance;

@@ -9,7 +9,7 @@ import net.md_5.bungee.api.plugin.Command;
  * @author sarhatabaot
  */
 public class ReloadCommand extends Command {
-	private StaffChatBungeePlugin plugin;
+	private final StaffChatBungeePlugin plugin;
 
 	public ReloadCommand(final StaffChatBungeePlugin plugin) {
 		super("staffchatbungeereload", "scb.reload", "scbreload");
