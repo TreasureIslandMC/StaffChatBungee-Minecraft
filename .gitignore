@@ -1,3 +1,9 @@
 /target/classes/
 /target/maven-archiver/
 /target/maven-status/
+
+target
+*.iml
+bin
+.idea
+.settings

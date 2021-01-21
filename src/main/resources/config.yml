@@ -1,0 +1,7 @@
+format: '&7[&6{TYPE} Chat&7] &c{NAME} &6: &r&e{MESSAGE}'
+# This is the format of the chat message that will come up in Moderator chat. '&*' represent color codes.
+chat:
+  format:
+    ADMIN: '&f[&4&lC&9&lp&6<&2&l.&f] &4{NAME} &f: &6&l{MESSAGE}'
+    MOD: '&f[&4&lC&9&lr&6&le&2&lw&f] &c{NAME} &f: &b&l{MESSAGE}'
+    HELPER: '&f[&4&lS&9&lh&6&li&2&lp&f] &c{NAME} &f: &e&l{MESSAGE}'
