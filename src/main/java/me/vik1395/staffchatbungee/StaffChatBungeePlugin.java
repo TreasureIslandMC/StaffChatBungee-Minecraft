@@ -29,9 +29,6 @@ public class StaffChatBungeePlugin extends Plugin implements Listener {
 
 	private final Map<UUID, ChannelType> playerCache = new HashMap<>();
 
-
-	private static String BASE_PERMISSION = "scb.channel.";
-
 	public Map<UUID, ChannelType> getPlayerCache() {
 		return playerCache;
 	}
