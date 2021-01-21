@@ -1,3 +1,5 @@
+## tinetwork.net modified version.
+
 StaffChat creates two additional chat streams to the basic public chat, One for Administrators, and another for Moderators. These streams can be viewed and used by only those who have the permissions. The main advantage of this plugin is that the chat stream can be viewed in **
 
 ALL servers** connected through BungeeCord, i.e. If a moderator says hello in the Lobby server, people on (for example) the SMP server who have the permission can read it and reply.

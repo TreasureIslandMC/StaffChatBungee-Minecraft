@@ -1,7 +1,0 @@
-name: StaffChatBungee
-main: me.vik1395.staffchatbungee.StaffChatBungeePlugin
-version: 1.2.1
-description: Custom version of StaffChatBungee. 4 streams of chat.
-authors:
-  - Vik1395
-  - sarhatabaot
